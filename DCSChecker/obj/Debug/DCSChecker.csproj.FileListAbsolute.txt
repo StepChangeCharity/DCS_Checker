@@ -1,0 +1,14 @@
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\bin\Debug\DCSChecker.exe.config
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\bin\Debug\DCSChecker.exe
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\bin\Debug\DCSChecker.pdb
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\MainWindow.g.cs
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\App.g.cs
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker_MarkupCompile.cache
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker_MarkupCompile.lref
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\MainWindow.baml
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker.g.resources
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker.Properties.Resources.resources
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker.csproj.GenerateResource.cache
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker.csproj.CoreCompileInputs.cache
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker.exe
+C:\Users\geoffreyh\source\repos\DCSChecker\DCSChecker\obj\Debug\DCSChecker.pdb
