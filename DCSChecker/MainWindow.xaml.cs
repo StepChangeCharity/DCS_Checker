@@ -13,8 +13,10 @@ namespace DCSChecker
     {
         public MainWindow()
         { 
+            var progToCheck = "DCS";
+
             //CheckIfProcessRunning("Notepad");
-            CheckIfProcessRunning("DCS");
+            CheckIfProcessRunning(progToCheck);
                        
             Close(); //Close this program!
         }
@@ -32,7 +34,7 @@ namespace DCSChecker
                     }
                     else
                     {
-                        StartProcess("DCS");
+                        StartProcess(progToCheck);
                     }
                 }
                 else
@@ -41,7 +43,7 @@ namespace DCSChecker
                 }
             else
             { 
-                StartProcess("DCS");
+                StartProcess(progToCheck);
             }
         }
 
@@ -71,7 +73,7 @@ namespace DCSChecker
 
             if (programName == "DCS")
             {
-                System.Diagnostics.Process.Start(@"C:\Program Files (x86)\DCS\DCS.exe");
+                System.Diagnostics.Process.Start(@"C:\Program Files (x86)\DCS\DCS.exe"); 
             }
         }
     }
